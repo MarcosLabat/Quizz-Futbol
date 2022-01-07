@@ -1,0 +1,82 @@
+[
+    {
+        "pregunta": "¿Cuantos goles convirtio Messi con la selección Argentina",
+        "imagen": "assets/imagenes/pregunta1.jpg",
+        "respuesta": "80 Goles",
+        "error": "85 Goles",
+        "error2": "75 Goles",
+        "error3": "70 Goles"
+    },
+    {
+        "pregunta": "¿Cuál es el máximo goleador del fútbol argentino?",
+        "imagen": "assets/imagenes/pregunta2.jpg",
+        "respuesta": "Arsenio Erico",
+        "error": "Riquelme",
+        "error2": "Pulga Rodriguez",
+        "error3": "Labruna"
+    },
+    {
+        "pregunta": "¿Quien erró más penales en partidos consecutivos?",
+        "imagen": "assets/imagenes/pregunta3.jpg",
+        "respuesta": "Maradona",
+        "error": "Palermo",
+        "error2": "El Tanque Silva",
+        "error3": "Sand"
+    },
+    {
+        "pregunta": "¿Cuál fue el jugador más expulsado en el futbol Argentino?",
+        "imagen": "assets/imagenes/pregunta4.jpg",
+        "respuesta": "Cubero",
+        "error": "Ruggeri",
+        "error2": "Trotta",
+        "error3": "Chiqui Perez"
+    },
+    {
+        "pregunta": "¿En qué Mundial dijo Maradona “me cortaron las piernas”?",
+        "imagen": "assets/imagenes/pregunta5.jpg",
+        "respuesta": "Usa 94",
+        "error": "Italia 90",
+        "error2": "España 82",
+        "error3": "Mexico 86"
+    },
+    {
+        "pregunta": "¿Cuál es el futbolista con más presencias?",
+        "imagen": "assets/imagenes/pregunta6.jpg",
+        "respuesta": "Gatti",
+        "error": "Ruben Paz",
+        "error2": "Cascini",
+        "error3": "Bochini"
+    },
+    {
+        "pregunta": "¿El jugador más joven en debutar?",
+        "imagen": "assets/imagenes/pregunta7.jpg",
+        "respuesta": "Aguero",
+        "error": "Maradona",
+        "error2": "Alvarez",
+        "error3": "Saviola"
+    },
+    {
+        "pregunta": "¿El entrenador que más veces perdió la categoría?",
+        "imagen": "assets/imagenes/pregunta8.jpg",
+        "respuesta": "JJ Lopez",
+        "error": "Llop",
+        "error2": "Rondina",
+        "error3": "Lombardi"
+    },
+    {
+        "pregunta": "¿El extranjero con mas partidos?",
+        "imagen": "assets/imagenes/pregunta9.jpg",
+        "respuesta": "Juan Jose Gonzalez",
+        "error": "Bermudez",
+        "error2": "Chilavert",
+        "error3": "Bergessio"
+    },
+    {
+        "pregunta": "¿Quienes hicieron la asistencia y gol en la final de la copa america 2021?",
+        "imagen": "assets/imagenes/pregunta10.jpg",
+        "respuesta": "De Paul y Di Maria",
+        "error": "Messi y Di Maria",
+        "error2": "Paredes y Di Maria",
+        "error3": "Lo Celso y Di Maria"
+    }
+]
